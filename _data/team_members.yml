@@ -6,14 +6,14 @@
   education1: IMJ-PRG
 
 - name: Antoine Chambert-Loir
-  photo: Antoine.jpg
+  photo:
   info: Professeur, Université Paris Cité
   url: https://webusers.imj-prg.fr/~antoine.chambert-loir/index.xhtml
   number_educ: 1
   education1: IMJ-PRG
 
 - name: Sophie Morel
-  photo: Sophie.jpg
+  photo:
   info: Directrice de Recherche, ENS de Lyon
   url: https://perso.ens-lyon.fr/sophie.morel/
   number_educ: 1
@@ -27,14 +27,14 @@
   education1: Institut Camille Jordan
 
 - name: Joël Riou
-  photo: Joel.jpg
+  photo:
   info: Maître de Conférences, Université Paris-Saclay
   url: https://www.imo.universite-paris-saclay.fr/~joel.riou/
   number_educ: 1
   education1: Laboratoire de Mathématiques d'Orsay
 
 - name: Xavier-François Roblot
-  photo: Xavier.jpg
+  photo:
   info: Maître de Conférences, Université Claude Bernard Lyon 1
   url: https://math.univ-lyon1.fr/~roblot/
   number_educ: 1

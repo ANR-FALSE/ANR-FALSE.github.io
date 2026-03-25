@@ -17,6 +17,9 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  {% if member.photo %}
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  {% endif %}
   <h4><a href="{{ member.url }}">{{ member.name }}</a></h4>
   <i>{{ member.info }}</i>
   <ul style="overflow: hidden">
