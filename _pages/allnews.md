@@ -8,8 +8,7 @@ permalink: /allnews.html
 
 # News
 
-<ul>
 {% for article in site.data.news %}
-<li>{{ article.date }} — {{ article.headline }}</li>
+<p style="margin-bottom: 0.3em;"><strong>{{ article.date }}</strong><br>
+{{ article.headline }}</p>
 {% endfor %}
-</ul>
