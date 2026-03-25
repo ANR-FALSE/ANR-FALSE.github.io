@@ -1,7 +1,7 @@
 - title: "Synthetic Differential Geometry in Lean"
   image:
   description: "We formalize synthetic differential geometry using the Lean proof assistant and the mathlib library. Our primary contribution is a formalized Taylor theorem for multivariable functions with series expansion around infinitesimal neighborhoods, featuring novel proofs and demonstrating constructive mathematics possibilities."
-  authors: Riccardo Brasca, Gabriella Clemente
+  authors: Riccardo Brasca, <a href="https://sites.google.com/view/gclemente">Gabriella Clemente</a>
   link:
     url: https://hal.science/hal-05555752
     display: HAL (2026)
