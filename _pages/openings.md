@@ -8,4 +8,4 @@ permalink: /vacancies
 
 # Open positions
 
-We had a PhD position available within the ANR project FALSE, but this position has now been filled.
+- **PhD position** on the formalisation of algebraic number theory and arithmetic geometry in Lean, within the ANR project FALSE. ~~This position has been filled by Wenrong Zou.~~
