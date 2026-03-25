@@ -70,3 +70,13 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+## PhD Students
+{% for member in site.data.phd_students %}
+<div class="row">
+<div class="col-sm-6 clearfix">
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}</i>
+</div>
+</div>
+{% endfor %}
