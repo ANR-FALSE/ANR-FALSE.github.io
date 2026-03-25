@@ -4,7 +4,7 @@
   url: https://webusers.imj-prg.fr/~riccardo.brasca/
   orcid: 0000-0002-0491-7241
   number_educ: 1
-  education1: IMJ-PRG
+  education1: <a href="https://www.imj-prg.fr/">IMJ-PRG</a>
 
 - name: Antoine Chambert-Loir
   photo:
@@ -12,14 +12,14 @@
   url: https://webusers.imj-prg.fr/~antoine.chambert-loir/index.xhtml
   orcid: 0000-0001-8485-7711
   number_educ: 1
-  education1: IMJ-PRG
+  education1: <a href="https://www.imj-prg.fr/">IMJ-PRG</a>
 
 - name: Sophie Morel
   photo:
-  info: Directrice de Recherche, ENS de Lyon
+  info: Directrice de Recherche, CNRS & ENS de Lyon
   url: https://perso.ens-lyon.fr/sophie.morel/
   number_educ: 1
-  education1: UMPA
+  education1: <a href="http://www.umpa.ens-lyon.fr/">UMPA</a>
 
 - name: Filippo A. E. Nuccio Mortarino Majno di Capriglio
   photo: Filippo.jpg
@@ -27,7 +27,7 @@
   url: https://perso.univ-st-etienne.fr/nf51454h/
   orcid: 0000-0002-5318-9869
   number_educ: 1
-  education1: Institut Camille Jordan
+  education1: <a href="https://math.univ-lyon1.fr/icj/">Institut Camille Jordan</a>
 
 - name: Joël Riou
   photo:
@@ -35,11 +35,11 @@
   url: https://www.imo.universite-paris-saclay.fr/~joel.riou/
   orcid: 0009-0001-8932-7450
   number_educ: 1
-  education1: Laboratoire de Mathématiques d'Orsay
+  education1: <a href="https://www.imo.universite-paris-saclay.fr/">Laboratoire de Mathématiques d'Orsay</a>
 
 - name: Xavier Roblot
   photo:
   info: Maître de Conférences, Université Claude Bernard Lyon 1
   url: https://math.univ-lyon1.fr/~roblot/
   number_educ: 1
-  education1: Institut Camille Jordan
+  education1: <a href="https://math.univ-lyon1.fr/icj/">Institut Camille Jordan</a>
