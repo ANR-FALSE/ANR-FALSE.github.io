@@ -1,15 +1,13 @@
 ---
-title: "Allan Lab - Research"
+title: "ANR FALSE - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "ANR FALSE -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Updating soon -- stay put. (Aug 11 2023)
+## p-adic modular forms in Lean
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
-
-
+We are formalizing p-adic modular forms in the Lean proof assistant. The code is available on GitHub: [ANR-FALSE/PadicModForms](https://github.com/ANR-FALSE/PadicModForms).

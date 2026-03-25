@@ -3,6 +3,6 @@
   description: "We formalize synthetic differential geometry using the Lean proof assistant and the mathlib library. Our primary contribution is a formalized Taylor theorem for multivariable functions with series expansion around infinitesimal neighborhoods, featuring novel proofs and demonstrating constructive mathematics possibilities."
   authors: Riccardo Brasca, Gabriella Clemente
   link:
-    url: https://arxiv.org/abs/2603.17457
-    display: arXiv (2026)
+    url: https://hal.science/hal-05555752
+    display: HAL (2026)
   highlight: 1
