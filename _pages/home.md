@@ -16,6 +16,6 @@ The project fits within the broader context of recent advances in mathematical f
 
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ANR_logo.png" style="width: 180px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UPC_logo.png" style="width: 180px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UJM_logo.png" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UPC_logo.png" style="width: 180px">
 </figure>
