@@ -1,7 +1,8 @@
 - name: Riccardo Brasca
   photo: Riccardo.jpg
-  info: Maître de Conférences, Université Paris Cité
+  info: Maître de Conférences, Université Paris Cité — Partner Scientific Leader
   url: https://webusers.imj-prg.fr/~riccardo.brasca/
+  orcid: 0000-0002-0491-7241
   number_educ: 1
   education1: IMJ-PRG
 
@@ -9,6 +10,7 @@
   photo:
   info: Professeur, Université Paris Cité
   url: https://webusers.imj-prg.fr/~antoine.chambert-loir/index.xhtml
+  orcid: 0000-0001-8485-7711
   number_educ: 1
   education1: IMJ-PRG
 
@@ -21,8 +23,9 @@
 
 - name: Filippo A. E. Nuccio Mortarino Majno di Capriglio
   photo: Filippo.jpg
-  info: Maître de Conférences HDR, Université Jean Monnet Saint-Étienne
+  info: Maître de Conférences HDR, Université Jean Monnet Saint-Étienne — Project Coordinator
   url: https://perso.univ-st-etienne.fr/nf51454h/
+  orcid: 0000-0002-5318-9869
   number_educ: 1
   education1: Institut Camille Jordan
 
@@ -30,10 +33,11 @@
   photo:
   info: Maître de Conférences, Université Paris-Saclay
   url: https://www.imo.universite-paris-saclay.fr/~joel.riou/
+  orcid: 0009-0001-8932-7450
   number_educ: 1
   education1: Laboratoire de Mathématiques d'Orsay
 
-- name: Xavier-François Roblot
+- name: Xavier Roblot
   photo:
   info: Maître de Conférences, Université Claude Bernard Lyon 1
   url: https://math.univ-lyon1.fr/~roblot/

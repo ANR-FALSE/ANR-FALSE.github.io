@@ -22,6 +22,7 @@ permalink: /team/
   {% endif %}
   <h4><a href="{{ member.url }}">{{ member.name }}</a></h4>
   <i>{{ member.info }}</i>
+  {% if member.orcid %}<br /><a href="https://orcid.org/{{ member.orcid }}">ORCID: {{ member.orcid }}</a>{% endif %}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
