@@ -8,7 +8,7 @@ permalink: /
 
 *ANR Project ANR-25-CE40-7639*
 
-[FALSE](https://anr.fr/Projet-ANR-25-CE40-7639) is a project bringing together six experts in mathematical formalisation, who work together to formalise in the Lean proof assistant certain key results in algebraic number theory and arithmetic geometry.
+[FALSE](https://anr.fr/Projet-ANR-25-CE40-7639) (Formalising Arithmetic in the Lean Software Environment) is a project bringing together six experts in mathematical formalisation, who work together to formalise in the Lean proof assistant certain key results in algebraic number theory and arithmetic geometry.
 
 The goal of FALSE is to make progress towards formalising the Langlands program, the first step being the definition of the Galois representation attached by Deligne to a modular form. To advance towards this long-term objective, four main themes will be developed by the members of FALSE: class field theory, p-adic modular forms "à la Serre", the Galois representation associated to an elliptic curve, and the formalism of admissible p-adic representations with the definition of certain period rings that appear in p-adic Hodge theory. Alongside these four topics, the project also proposes two PhD subjects, focused on the formalisation of Tate’s thesis and on p-adic analysis.
 
