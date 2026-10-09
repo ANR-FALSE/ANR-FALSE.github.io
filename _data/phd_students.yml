@@ -1,4 +1,10 @@
+- name: Yacine Benmeuraiem
+  info: PhD Student, ENS de Lyon
+  advisors: Filippo A. E. Nuccio and Sophie Morel
+  number_educ: 0
+
 - name: Wenrong Zou
-  info: PhD Student
+  info: PhD Student, Université Jean Monnet Saint-Étienne
+  advisors: Filippo A. E. Nuccio and Riccardo Brasca
   orcid: 0009-0005-3860-3602
   number_educ: 0

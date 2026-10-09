@@ -72,12 +72,31 @@ permalink: /team/
 {% endif %}
 
 ## PhD Students
+{% assign number_printed = 0 %}
 {% for member in site.data.phd_students %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
 <div class="row">
+{% endif %}
+
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
+  {% if member.advisors %}<br />Advisors: {{ member.advisors }}{% endif %}
   {% if member.orcid %}<br /><a href="https://orcid.org/{{ member.orcid }}">ORCID: {{ member.orcid }}</a>{% endif %}
 </div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
 </div>
+{% endif %}
+
 {% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
