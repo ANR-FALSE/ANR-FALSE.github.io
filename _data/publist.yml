@@ -1,3 +1,12 @@
+- title: "Formalisation as a concrete manifestation of mathematical understanding"
+  image:
+  description: "An essay arguing that formalising mathematics by hand in a proof assistant such as Lean turns mathematical understanding into a tangible, verifiable scientific output, and reflecting on the role of formalisation and autoformalisation now that AI produces large numbers of new results. Also published on the blog <a href=\"https://proofsandprompts.com/2026/11/08/formalisation-as-a-concrete-manifestation-of-mathematical-understanding/\">Proofs and Prompts</a>."
+  authors: <a href="https://perso.univ-st-etienne.fr/nf51454h/">Filippo A. E. Nuccio Mortarino Majno di Capriglio</a>
+  link:
+    url: https://hal.science/hal-05835641
+    display: HAL (2026)
+  highlight: 1
+
 - title: "Synthetic Differential Geometry in Lean"
   image:
   description: "We formalize synthetic differential geometry using the Lean proof assistant and the mathlib library. Our primary contribution is a formalized Taylor theorem for multivariable functions with series expansion around infinitesimal neighborhoods, featuring novel proofs and demonstrating constructive mathematics possibilities."
